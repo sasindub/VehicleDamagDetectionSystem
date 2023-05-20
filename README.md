@@ -10,7 +10,6 @@ There can be a chance to cheat to the clients.
 Automating such a process with the help of machine learning and remote usage would make the process a lot more convenient for both sides of the damage, increasing productivity of the insurance carrier and satisfaction of the customer.
 
 It will be a most demanding system within the insurance companies.
-![image](https://github.com/sasindub/VehicleDamagDetectionSystem/assets/97359461/a2d179b2-a10f-4588-bf3d-b9ad7fade269)
 
 
 
