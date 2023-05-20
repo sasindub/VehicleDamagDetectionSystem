@@ -7,6 +7,8 @@ Also, an inspector is required to physically analyze the vehicles to assess the 
 There is also the possibility of inaccurate settlements due to human errors.
 There can be a chance to cheat to the clients.
 
+This system will solve those above problems of insurance companies.
+
 Automating such a process with the help of machine learning and remote usage would make the process a lot more convenient for both sides of the damage, increasing productivity of the insurance carrier and satisfaction of the customer.
 
 It will be a most demanding system within the insurance companies.
